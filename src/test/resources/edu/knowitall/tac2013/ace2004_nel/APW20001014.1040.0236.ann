@@ -1,0 +1,186 @@
+T1	Entity 76 92	General Assembly
+T3	Entity 210 221	Middle East
+N3	Reference T3 Wikipedia:04wsz	Middle_East
+#3	Attributes T3	0.9926463771728795
+T7	Entity 135 151	General Assembly
+N7	Reference T7 Wikipedia:07vp7	United_Nations_General_Assembly
+#7	Attributes T7	1.0668033233181695
+T8	Entity 298 305	Israeli
+N8	Reference T8 Wikipedia:03spz	Israel
+#8	Attributes T8	0.25106986981600893
+T9	Entity 350 370	The Associated Press
+N9	Reference T9 Wikipedia:0cv_2	Associated_Press
+#9	Attributes T9	0.815114454768483
+T11	Entity 493 499	Israel
+N11	Reference T11 Wikipedia:03spz	Israel
+#11	Attributes T11	1.6495920370745212
+T12	Entity 536 563	Israel-Palestinian conflict
+T15	Entity 672 681	Jerusalem
+N15	Reference T15 Wikipedia:0430_	Jerusalem
+#15	Attributes T15	1.4651445670726917
+T16	Entity 810 822	Palestinians
+N16	Reference T16 Wikipedia:0jt7v76	Palestinian_people
+#16	Attributes T16	1.3343526204301563
+T17	Entity 797 805	Israelis
+N17	Reference T17 Wikipedia:018s6c	Israelis
+#17	Attributes T17	0.4893306140509838
+T18	Entity 883 894	Arab states
+N18	Reference T18 Wikipedia:0150_4	Arab_world
+#18	Attributes T18	0.6979901604425492
+T19	Entity 883 887	Arab
+N19	Reference T19 Wikipedia:0xff	Arab_people
+#19	Attributes T19	0.8668416490880129
+T20	Entity 1138 1150	Palestinians
+N20	Reference T20 Wikipedia:0jt7v76	Palestinian_people
+#20	Attributes T20	1.1824089924610148
+T21	Entity 967 983	Security Council
+N21	Reference T21 Wikipedia:07vnr	United_Nations_Security_Council
+#21	Attributes T21	1.9045461959999086
+T22	Entity 1089 1097	violence
+N22	Reference T22 Wikipedia:0chbx	Violence
+#22	Attributes T22	0.7797047548086317
+T23	Entity 1176 1179	189
+T24	Entity 1180 1184	U.N.
+N24	Reference T24 Wikipedia:07t65	United_Nations
+#24	Attributes T24	2.3489779318094253
+T28	Entity 1329 1345	General Assembly
+N28	Reference T28 Wikipedia:07vp7	United_Nations_General_Assembly
+#28	Attributes T28	0.9246901545252924
+T31	Entity 1346 1355	President
+N31	Reference T31 Wikipedia:060d2	President_of_the_United_States
+#31	Attributes T31	-0.020332999118233885
+T32	Entity 1427 1431	Arab
+N32	Reference T32 Wikipedia:0xff	Arab_people
+#32	Attributes T32	0.8048261218494441
+T34	Entity 1854 1865	Palestinian
+N34	Reference T34 Wikipedia:0jt7v76	Palestinian_people
+#34	Attributes T34	1.389941759809908
+T35	Entity 1652 1659	Israeli
+N35	Reference T35 Wikipedia:03spz	Israel
+#35	Attributes T35	0.30072265591317343
+T36	Entity 1678 1689	Palestinian
+N36	Reference T36 Wikipedia:0jt7v76	Palestinian_people
+#36	Attributes T36	1.3365500886448556
+T38	Entity 1500 1511	Palestinian
+N38	Reference T38 Wikipedia:0jt7v76	Palestinian_people
+#38	Attributes T38	1.3321145785267474
+T41	Entity 1600 1616	Security Council
+N41	Reference T41 Wikipedia:07vnr	United_Nations_Security_Council
+#41	Attributes T41	1.7446510308817258
+T42	Entity 1660 1666	rocket
+N42	Reference T42 Wikipedia:01qfy5	Qassam_rocket
+#42	Attributes T42	1.1524129481014902
+T43	Entity 1760 1776	Israeli soldiers
+N43	Reference T43 Wikipedia:09s93	Israel_Defense_Forces
+#43	Attributes T43	1.2197597871210337
+T44	Entity 1760 1767	Israeli
+N44	Reference T44 Wikipedia:03spz	Israel
+#44	Attributes T44	0.44160942536138315
+T47	Entity 1945 1949	veto
+N47	Reference T47 Wikipedia:064tt0	United_Nations_Security_Council_veto_power
+#47	Attributes T47	1.3501526297072053
+T49	Entity 1882 1886	U.S.
+N49	Reference T49 Wikipedia:09c7w0	United_States
+#49	Attributes T49	1.5624607110773807
+T50	Entity 1887 1897	Ambassador
+N50	Reference T50 Wikipedia:0hyf1	Ambassador
+#50	Attributes T50	0.7008243433785606
+T52	Entity 2020 2048	Secretary-General Kofi Annan
+N52	Reference T52 Wikipedia:0498f	Kofi_Annan
+#52	Attributes T52	1.074530888211566
+T54	Entity 2038 2048	Kofi Annan
+N54	Reference T54 Wikipedia:0498f	Kofi_Annan
+#54	Attributes T54	1.6354555522269363
+T55	Entity 2069 2074	truce
+N55	Reference T55 Wikipedia:02t9jz	Ceasefire
+#55	Attributes T55	1.9399541488844079
+T56	Entity 1898 1915	Richard Holbrooke
+N56	Reference T56 Wikipedia:01tjvg	Richard_Holbrooke
+#56	Attributes T56	1.1526497800494482
+T57	Entity 1925 1938	United States
+N57	Reference T57 Wikipedia:09c7w0	United_States
+#57	Attributes T57	1.6788362189351849
+T58	Entity 2167 2172	Egypt
+N58	Reference T58 Wikipedia:02k54	Egypt
+#58	Attributes T58	0.9808232871620406
+T59	Entity 2175 2203	Security Council resolutions
+N59	Reference T59 Wikipedia:018f24	United_Nations_Security_Council_resolution
+#59	Attributes T59	1.198012704513865
+T60	Entity 2175 2191	Security Council
+N60	Reference T60 Wikipedia:07vnr	United_Nations_Security_Council
+#60	Attributes T60	2.061926185296915
+T61	Entity 2255 2271	General Assembly
+N61	Reference T61 Wikipedia:07vp7	United_Nations_General_Assembly
+#61	Attributes T61	1.519670107194149
+T63	Entity 2299 2312	majority vote
+N63	Reference T63 Wikipedia:02x2sq	Majoritarianism
+#63	Attributes T63	0.10020933470015012
+T64	Entity 2370 2386	Security Council
+N64	Reference T64 Wikipedia:07vnr	United_Nations_Security_Council
+#64	Attributes T64	2.1581463172448325
+T65	Entity 2463 2475	Palestinians
+N65	Reference T65 Wikipedia:0jt7v76	Palestinian_people
+#65	Attributes T65	1.0854473631149688
+T66	Entity 2493 2499	Israel
+N66	Reference T66 Wikipedia:03spz	Israel
+#66	Attributes T66	1.5283961038048914
+T68	Entity 2624 2635	Palestinian
+N68	Reference T68 Wikipedia:0jt7v76	Palestinian_people
+#68	Attributes T68	1.3846851443264068
+T69	Entity 2591 2598	Israeli
+N69	Reference T69 Wikipedia:03spz	Israel
+#69	Attributes T69	0.21603553744946224
+T71	Entity 2506 2522	General Assembly
+N71	Reference T71 Wikipedia:07vp7	United_Nations_General_Assembly
+#71	Attributes T71	1.3228344033471482
+T72	Entity 2651 2657	Israel
+N72	Reference T72 Wikipedia:03spz	Israel
+#72	Attributes T72	1.7883782624916016
+T75	Entity 2769 2775	Jewish
+N75	Reference T75 Wikipedia:041rx	Jews
+#75	Attributes T75	0.8075729773106413
+T76	Entity 2769 2787	Jewish settlements
+N76	Reference T76 Wikipedia:03x7l	Israeli_settlement
+#76	Attributes T76	0.8284927499775014
+T78	Entity 2822 2829	Mideast
+N78	Reference T78 Wikipedia:04wsz	Middle_East
+#78	Attributes T78	0.846137537436946
+T79	Entity 2885 2901	Security Council
+N79	Reference T79 Wikipedia:07vnr	United_Nations_Security_Council
+#79	Attributes T79	2.29656445722889
+T80	Entity 2990 3006	General Assembly
+N80	Reference T80 Wikipedia:07vp7	United_Nations_General_Assembly
+#80	Attributes T80	1.338494438573927
+T82	Entity 3090 3095	Annan
+T2	Person 109 123	UNITED NATIONS
+N1	Reference T2 Wikipedia:0dzmqv3	United Nations
+T4	Person 125 127	AP
+N2	Reference T4 Wikipedia:0cv_2	Associated Press
+T5	Person 426 446	the Security Council
+N4	Reference T5 Wikipedia:07vnr	United Nations Security Council
+T6	Person 1158 1198	a majority of the 189 U.N. member states
+N5	Reference T6 Wikipedia:07vr6	Member states of the United Nations
+T10	Person 1172 1198	the 189 U.N. member states
+N6	Reference T10 Wikipedia:07vr6	Member states of the United Nations
+T13	Person 1180 1191	U.N. member
+N10	Reference T13 Wikipedia:07vr6	Member states of the United Nations
+T14	Person 1329 1369	General Assembly President Harri Holkeri
+N12	Reference T14 Wikipedia:01dz2j	Harri Holkeri
+T25	Person 1529 1544	Nasser Al-Kidwa
+N13	Reference T25 Wikipedia:03gxflt	Nasser al-Qudwa
+T29	Person 1843 1872	the entire Palestinian people
+N14	Reference T29 Wikipedia:0jt7v76	Palestinian people
+T30	Person 1882 1915	U.S. Ambassador Richard Holbrooke
+N23	Reference T30 Wikipedia:01tjvg	Richard Holbrooke
+T33	Person 3113 3121	assembly
+N25	Reference T33 Wikipedia:07vp7	United Nations General Assembly
+T37	Person 536 542	Israel
+N29	Reference T37 Wikipedia:03spz	Israel
+T39	Person 543 554	Palestinian
+N30	Reference T39 Wikipedia:0jt7v76	Palestinian people
+T26	Person 1329 1355	General Assembly President
+N26	Reference T26 Wikipedia:01dz2j	Harri Holkeri
+T27	Person 1882 1897	U.S. Ambassador
+N27	Reference T27 Wikipedia:01tjvg	Richard Holbrooke
+T40	Person 2020 2037	Secretary-General
+N33	Reference T40 Wikipedia:0498f	Kofi Annan

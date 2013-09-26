@@ -1,0 +1,91 @@
+T1	Entity 67 72	Nokia
+T2	Entity 293 301	cellular
+N2	Reference T2 Wikipedia:050k8	Mobile_phone
+#2	Attributes T2	0.9157798943106781
+T3	Entity 115 122	Finland
+N3	Reference T3 Wikipedia:02vzc	Finland
+#3	Attributes T3	1.5800364209100197
+T4	Entity 130 135	Nokia
+N4	Reference T4 Wikipedia:05b5c	Nokia
+#4	Attributes T4	1.5173422830603371
+T5	Entity 262 266	2003
+T6	Entity 627 633	London
+N6	Reference T6 Wikipedia:04jpl	London
+#6	Attributes T6	1.0465799895076118
+T7	Entity 571 576	Nokia
+N7	Reference T7 Wikipedia:05b5c	Nokia
+#7	Attributes T7	1.8569306156222374
+T9	Entity 444 452	Internet
+N9	Reference T9 Wikipedia:03rlt	Internet
+#9	Attributes T9	1.491988065975775
+T10	Entity 596 608	Jorma Ollila
+N10	Reference T10 Wikipedia:05g33g	Jorma_Ollila
+#10	Attributes T10	0.8484473785857591
+T12	Entity 636 641	Nokia
+N12	Reference T12 Wikipedia:05b5c	Nokia
+#12	Attributes T12	1.8897252163060647
+T14	Entity 817 822	Nokia
+N14	Reference T14 Wikipedia:05b5c	Nokia
+#14	Attributes T14	1.5073234039410461
+T16	Entity 892 915	New York Stock Exchange
+N16	Reference T16 Wikipedia:05drh	New_York_Stock_Exchange
+#16	Attributes T16	1.199137940070756
+T18	Entity 947 959	mobile phone
+N18	Reference T18 Wikipedia:050k8	Mobile_phone
+#18	Attributes T18	1.5747698762592834
+T19	Entity 918 923	Nokia
+N19	Reference T19 Wikipedia:05b5c	Nokia
+#19	Attributes T19	1.5890322734770783
+T20	Entity 1065 1069	2002
+T21	Entity 1157 1169	market share
+N21	Reference T21 Wikipedia:026nhyg	Market_share
+#21	Attributes T21	1.0670034467295857
+T22	Entity 1221 1234	mobile phones
+N22	Reference T22 Wikipedia:050k8	Mobile_phone
+#22	Attributes T22	1.4354831494227769
+T23	Entity 1398 1402	2002
+T24	Entity 1426 1430	2002
+T25	Entity 1291 1296	Nokia
+N25	Reference T25 Wikipedia:05b5c	Nokia
+#25	Attributes T25	1.2313365460409447
+T26	Entity 1321 1333	mobile phone
+N26	Reference T26 Wikipedia:050k8	Mobile_phone
+#26	Attributes T26	1.507539575319335
+T27	Entity 1616 1629	United States
+N27	Reference T27 Wikipedia:09c7w0	United_States
+#27	Attributes T27	1.6171369660076296
+T29	Entity 1684 1689	Nokia
+N29	Reference T29 Wikipedia:05b5c	Nokia
+#29	Attributes T29	1.6842371808856558
+T30	Entity 1776 1781	Nokia
+N30	Reference T30 Wikipedia:05b5c	Nokia
+#30	Attributes T30	1.7421990083447843
+T31	Entity 1855 1865	net profit
+N31	Reference T31 Wikipedia:09xs_	Net_profit
+#31	Attributes T31	1.2267936611620762
+T33	Person 104 122	HELSINKI , Finland
+N1	Reference T33 Wikipedia:09jhss	Helsinki
+T36	Person 1753 1760	company
+N23	Reference T36 Wikipedia:0r4vn4s	Company
+T37	Person 571 608	Nokia 's Chief Executive Jorma Ollila
+N24	Reference T37 Wikipedia:05g33g	Jorma Ollila
+T11	Person 1539 1559	Redmond , Washington
+N11	Reference T11 Wikipedia:06m7v	Redmond
+T13	Person 1539 1585	Redmond , Washington-based AT&AMP ; T Wireless
+N13	Reference T13 Wikipedia:08z129	AT&T
+T15	Person 1739 1746	Finland
+N15	Reference T15 Wikipedia:02vzc	Finland
+T17	Person 186 193	company
+N5	Reference T17 Wikipedia:05b5c	Nokia
+T28	Person 124 126	AP
+N17	Reference T28 Wikipedia:0cv_2	Associated Press
+T8	Person 580 595	Chief Executive
+N8	Reference T8 Wikipedia:05g33g	Jorma Ollila
+T32	Person 926 965	the world 's biggest mobile phone maker
+N28	Reference T32 Wikipedia:05b5c	Nokia
+T34	Person 1134 1141	company
+N20	Reference T34 Wikipedia:05b5c	Nokia
+T35	Person 1480 1487	company
+N32	Reference T35 Wikipedia:05b5c	Nokia
+T38	Person 1739 1760	Finland-based company
+N33	Reference T38 Wikipedia:05b5c	Nokia

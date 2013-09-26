@@ -1,0 +1,203 @@
+T1	Entity 73 77	Snow
+T2	Entity 101 108	Midwest
+T3	Entity 155 159	snow
+N3	Reference T3 Wikipedia:06_dn	Snow
+#3	Attributes T3	1.5604618194222144
+T4	Entity 177 184	Midwest
+N4	Reference T4 Wikipedia:0q76g	Midwestern_United_States
+#4	Attributes T4	1.828156328646813
+T5	Entity 348 357	Minnesota
+N5	Reference T5 Wikipedia:04ykg	Minnesota
+#5	Attributes T5	1.258836713884371
+T6	Entity 295 299	Iowa
+N6	Reference T6 Wikipedia:03s0w	Iowa
+#6	Attributes T6	1.4115015368875092
+T7	Entity 284 292	Rockwell
+T8	Entity 255 259	snow
+N8	Reference T8 Wikipedia:06_dn	Snow
+#8	Attributes T8	1.7839016437744128
+T9	Entity 371 388	low pressure area
+N9	Reference T9 Wikipedia:02d_8g	Low_pressure_area
+#9	Attributes T9	1.0909181009030073
+T10	Entity 540 548	Michigan
+N10	Reference T10 Wikipedia:04rrx	Michigan
+#10	Attributes T10	1.2943940023797722
+T11	Entity 504 512	Missouri
+N11	Reference T11 Wikipedia:04ych	Missouri
+#11	Attributes T11	1.3281842282050995
+T12	Entity 526 533	Indiana
+N12	Reference T12 Wikipedia:03v1s	Indiana
+#12	Attributes T12	1.2757847043270816
+T13	Entity 515 523	Illinois
+N13	Reference T13 Wikipedia:03v0t	Illinois
+#13	Attributes T13	1.4949081694391693
+T14	Entity 453 461	Nebraska
+N14	Reference T14 Wikipedia:05fhy	Nebraska
+#14	Attributes T14	1.7324256007930419
+T15	Entity 483 492	Wisconsin
+N15	Reference T15 Wikipedia:0824r	Wisconsin
+#15	Attributes T15	1.7750121816656346
+T16	Entity 471 480	Minnesota
+N16	Reference T16 Wikipedia:04ykg	Minnesota
+#16	Attributes T16	1.2947016402798395
+T17	Entity 464 468	Iowa
+N17	Reference T17 Wikipedia:03s0w	Iowa
+#17	Attributes T17	1.6058663451771371
+T18	Entity 432 436	snow
+N18	Reference T18 Wikipedia:06_dn	Snow
+#18	Attributes T18	1.8196411976003588
+T19	Entity 398 405	Midwest
+N19	Reference T19 Wikipedia:0q76g	Midwestern_United_States
+#19	Attributes T19	1.5092671026172018
+T20	Entity 598 606	Nebraska
+N20	Reference T20 Wikipedia:05fhy	Nebraska
+#20	Attributes T20	1.5582717110923656
+T21	Entity 673 686	Cuming County
+N21	Reference T21 Wikipedia:0n7my	Cuming_County$002C_Nebraska
+#21	Attributes T21	0.9531230709688641
+T22	Entity 661 669	Nebraska
+N22	Reference T22 Wikipedia:05fhy	Nebraska
+#22	Attributes T22	1.511068379097867
+T23	Entity 810 814	snow
+N23	Reference T23 Wikipedia:06_dn	Snow
+#23	Attributes T23	1.6972118852714349
+T24	Entity 789 798	Minnesota
+N24	Reference T24 Wikipedia:04ykg	Minnesota
+#24	Attributes T24	1.1632990933654594
+T27	Entity 913 922	Wisconsin
+N27	Reference T27 Wikipedia:0824r	Wisconsin
+#27	Attributes T27	1.0579952574157476
+T28	Entity 1078 1082	rain
+N28	Reference T28 Wikipedia:06mb1	Rain
+#28	Attributes T28	1.2553479524310394
+T29	Entity 1121 1130	Tennessee
+N29	Reference T29 Wikipedia:07h34	Tennessee
+#29	Attributes T29	1.2924508251496194
+T30	Entity 1108 1116	Kentucky
+N30	Reference T30 Wikipedia:0498y	Kentucky
+#30	Attributes T30	1.5483247131163844
+T31	Entity 976 989	precipitation
+N31	Reference T31 Wikipedia:01q18m	Precipitation_$0028meteorology$0029
+#31	Attributes T31	0.5208293288586701
+T32	Entity 1236 1249	eastern Texas
+N32	Reference T32 Wikipedia:02590c	East_Texas
+#32	Attributes T32	0.9299349211105488
+T33	Entity 1188 1196	Arkansas
+N33	Reference T33 Wikipedia:0vbk	Arkansas
+#33	Attributes T33	1.4922678827639635
+T34	Entity 1159 1163	rain
+N34	Reference T34 Wikipedia:06mb1	Rain
+#34	Attributes T34	1.102443647139803
+T35	Entity 1244 1249	Texas
+N35	Reference T35 Wikipedia:07b_l	Texas
+#35	Attributes T35	1.1718034722671258
+T36	Entity 1199 1210	Mississippi
+N36	Reference T36 Wikipedia:04tgp	Mississippi
+#36	Attributes T36	1.0915840411539508
+T37	Entity 1217 1226	Louisiana
+N37	Reference T37 Wikipedia:04ly1	Louisiana
+#37	Attributes T37	1.3819884700604155
+T38	Entity 1339 1346	Florida
+N38	Reference T38 Wikipedia:02xry	Florida
+#38	Attributes T38	1.3340623019207036
+T39	Entity 1302 1309	Alabama
+N39	Reference T39 Wikipedia:0gyh	Alabama
+#39	Attributes T39	1.5109905365969236
+T40	Entity 1312 1319	Georgia
+N40	Reference T40 Wikipedia:0d0x8	Georgia_$0028US_state$0029
+#40	Attributes T40	1.2997743470581
+T41	Entity 1508 1516	Nebraska
+N41	Reference T41 Wikipedia:05fhy	Nebraska
+#41	Attributes T41	1.6850240455788046
+T43	Entity 1521 1527	Kansas
+N43	Reference T43 Wikipedia:0488g	Kansas
+#43	Attributes T43	1.4177171600271183
+T44	Entity 1390 1394	snow
+N44	Reference T44 Wikipedia:06_dn	Snow
+#44	Attributes T44	1.8347062887823775
+T45	Entity 1432 1439	Wyoming
+N45	Reference T45 Wikipedia:0846v	Wyoming
+#45	Attributes T45	1.7088706545172354
+T46	Entity 1450 1462	South Dakota
+N46	Reference T46 Wikipedia:06mz5	South_Dakota
+#46	Attributes T46	1.6047156167505963
+T47	Entity 1473 1481	Colorado
+N47	Reference T47 Wikipedia:01n4w	Colorado
+#47	Attributes T47	1.3652447916027477
+T48	Entity 1537 1546	Northeast
+T49	Entity 1645 1656	New England
+N49	Reference T49 Wikipedia:029jpy	New_England
+#49	Attributes T49	1.326178630992301
+T50	Entity 1636 1656	northern New England
+N50	Reference T50 Wikipedia:029jpy	New_England
+#50	Attributes T50	0.8587688217135374
+T51	Entity 1561 1565	snow
+N51	Reference T51 Wikipedia:06_dn	Snow
+#51	Attributes T51	1.7637409034872993
+T53	Entity 1594 1606	Pennsylvania
+N53	Reference T53 Wikipedia:05tbn	Pennsylvania
+#53	Attributes T53	1.1189711062595091
+T54	Entity 1622 1630	New York
+N54	Reference T54 Wikipedia:059rby	New_York
+#54	Attributes T54	1.0040020940355137
+T55	Entity 1614 1630	upstate New York
+N55	Reference T55 Wikipedia:029mpb	Upstate_New_York
+#55	Attributes T55	1.5166166120400213
+T56	Entity 1779 1786	Pacific
+N56	Reference T56 Wikipedia:05rgl	Pacific_Ocean
+#56	Attributes T56	0.6272134916091638
+T57	Entity 1671 1674	fog
+N57	Reference T57 Wikipedia:0g2z8	Fog
+#57	Attributes T57	1.819459121497163
+T58	Entity 1707 1717	Washington
+N58	Reference T58 Wikipedia:0qtnb75	Washington
+#58	Attributes T58	0.7736435747400773
+T60	Entity 1963 1968	Texas
+N60	Reference T60 Wikipedia:07b_l	Texas
+#60	Attributes T60	1.329686692231283
+T61	Entity 1924 1933	Oceanside
+N61	Reference T61 Wikipedia:0r540	Oceanside$002C_California
+#61	Attributes T61	0.5176940205468601
+T62	Entity 1949 1960	Brownsville
+N62	Reference T62 Wikipedia:0_z91	Brownsville$002C_Texas
+#62	Attributes T62	0.6528098081322169
+T63	Entity 1823 1831	Lower 48
+N63	Reference T63 Wikipedia:04_1l0v	Contiguous_United_States
+#63	Attributes T63	0.8463544906428189
+T64	Entity 1936 1942	Calif.
+N64	Reference T64 Wikipedia:01n7q	California
+#64	Attributes T64	0.7583061054065561
+T65	Entity 1889 1893	Wis.
+N65	Reference T65 Wikipedia:0824r	Wisconsin
+#65	Attributes T65	0.5235572503411892
+T67	Entity 1982 1992	wind chill
+N67	Reference T67 Wikipedia:0148cn	Wind_chill
+#67	Attributes T67	1.0987769107245886
+T69	Person 284 299	Rockwell , Iowa
+N1	Reference T69 Wikipedia:0ssx6	Rockwell
+T70	Person 648 686	northeastern Nebraska 's Cuming County
+N2	Reference T70 Wikipedia:0n7my	Cuming County
+T25	Person 877 893	school districts
+N7	Reference T25 Wikipedia:01xy6g	School district
+T26	Person 877 883	school
+N25	Reference T26 Wikipedia:02dk5q	State school
+T71	Person 942 948	school
+N26	Reference T71 Wikipedia:02dk5q	State school
+T42	Person 1878 1893	Phillips , Wis.
+N42	Reference T42 Wikipedia:01187n	Phillips
+T52	Person 1924 1942	Oceanside , Calif.
+N52	Reference T52 Wikipedia:0r540	Oceanside
+T59	Person 1949 1968	Brownsville , Texas
+N59	Reference T59 Wikipedia:0_z91	Brownsville
+T66	Person 2009 2018	Jamestown
+N66	Reference T66 Wikipedia:0yrnb	Jamestown
+T73	Person 2009 2025	Jamestown , N.D.
+N69	Reference T73 Wikipedia:0yrnb	Jamestown
+T74	Person 2021 2025	N.D.
+N70	Reference T74 Wikipedia:05fky	North Dakota
+T68	Person 859 893	about three dozen school districts
+N68	Reference T68 Wikipedia:01xy6g	School district
+T72	Person 551 558	Schools
+N48	Reference T72 Wikipedia:02dk5q	State school
+T75	Person 563 578	some businesses
+N71	Reference T75 Wikipedia:09s1f	Business

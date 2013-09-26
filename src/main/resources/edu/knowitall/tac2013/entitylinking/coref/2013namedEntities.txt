@@ -1,0 +1,4 @@
+EL_ENG_00001
+	ORGANIZATION	Corporacion Venezolana de Guayana	CVG	Carbonorca	Bauxilum	Alcasa	Sidor
+	LOCATION	Venezuela	Venezuelan	Venalum
+	PERSON	Hugo Chavez	Chavez	Chavez

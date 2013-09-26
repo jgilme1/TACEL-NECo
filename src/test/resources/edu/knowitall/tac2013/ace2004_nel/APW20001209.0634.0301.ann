@@ -1,0 +1,219 @@
+T1	Entity 66 70	Bush
+T2	Entity 129 143	George W. Bush
+N2	Reference T2 Wikipedia:09b6zr	George_W_Bush
+#2	Attributes T2	1.5449056353112005
+T3	Entity 195 200	ranch
+N3	Reference T3 Wikipedia:01dtzc	Prairie_Chapel_Ranch
+#3	Attributes T3	1.2798998907530759
+T5	Entity 165 173	solitude
+N5	Reference T5 Wikipedia:03tr7f	Solitude
+#5	Attributes T5	0.44573503147791965
+T7	Entity 181 194	central Texas
+N7	Reference T7 Wikipedia:0983h	Central_Texas
+#7	Attributes T7	0.9149664258175021
+T8	Entity 111 116	Texas
+N8	Reference T8 Wikipedia:07b_l	Texas
+#8	Attributes T8	0.8373914319804644
+T9	Entity 387 408	Florida Supreme Court
+N9	Reference T9 Wikipedia:05jg_3	Supreme_Court_of_Florida
+#9	Attributes T9	1.1814810388119847
+T10	Entity 387 394	Florida
+N10	Reference T10 Wikipedia:02xry	Florida
+#10	Attributes T10	1.3118214135518973
+T13	Entity 300 310	Republican
+N13	Reference T13 Wikipedia:07wbk	Republican_Party_$0028United_States$0029
+#13	Attributes T13	1.7458225831045318
+T15	Entity 281 286	Texas
+N15	Reference T15 Wikipedia:07b_l	Texas
+#15	Attributes T15	1.11121497513824
+T17	Entity 507 511	Bush
+N17	Reference T17 Wikipedia:09b6zr	George_W_Bush
+#17	Attributes T17	0.47531560339111734
+T18	Entity 571 577	Austin
+N18	Reference T18 Wikipedia:0vzm	Austin$002C_Texas
+#18	Attributes T18	1.103910010933402
+T19	Entity 603 607	Bush
+N19	Reference T19 Wikipedia:09b6zr	George_W_Bush
+#19	Attributes T19	0.565627752438402
+T20	Entity 684 689	ranch
+N20	Reference T20 Wikipedia:01dtzc	Prairie_Chapel_Ranch
+#20	Attributes T20	0.9949306365167285
+T21	Entity 872 876	Bush
+N21	Reference T21 Wikipedia:09b6zr	George_W_Bush
+#21	Attributes T21	0.5151212597321758
+T22	Entity 909 914	Texas
+N22	Reference T22 Wikipedia:07b_l	Texas
+#22	Attributes T22	1.3282430627102426
+T24	Entity 891 896	ranch
+N24	Reference T24 Wikipedia:01dtzc	Prairie_Chapel_Ranch
+#24	Attributes T24	1.9519788176929993
+T25	Entity 1036 1040	Bush
+N25	Reference T25 Wikipedia:09b6zr	George_W_Bush
+#25	Attributes T25	0.6204899392254413
+T28	Entity 1086 1090	Bush
+N28	Reference T28 Wikipedia:09b6zr	George_W_Bush
+#28	Attributes T28	0.5887078152930199
+T29	Entity 1101 1113	Dan Bartlett
+N29	Reference T29 Wikipedia:03wgl3	Dan_Bartlett
+#29	Attributes T29	0.8599861593497795
+T30	Entity 1274 1277	Va.
+N30	Reference T30 Wikipedia:07z1m	Virginia
+#30	Attributes T30	0.23019273340155458
+T32	Entity 1330 1344	roller coaster
+N32	Reference T32 Wikipedia:010l12	Roller_coaster
+#32	Attributes T32	0.8712070615133581
+T33	Entity 1181 1202	Juleanna Glover Weiss
+N33	Reference T33 Wikipedia:03pclz	Juleanna_Glover_Weiss
+#33	Attributes T33	0.8531549029398635
+T35	Entity 1226 1237	Bush-Cheney
+T36	Entity 1473 1480	Al Gore
+N36	Reference T36 Wikipedia:0d05fv	Al_Gore
+#36	Attributes T36	2.0997088799111965
+T37	Entity 1354 1358	Bush
+N37	Reference T37 Wikipedia:09b6zr	George_W_Bush
+#37	Attributes T37	0.39880759386723563
+T43	Entity 1545 1561	absentee ballots
+N43	Reference T43 Wikipedia:048mzc	Absentee_ballot
+#43	Attributes T43	0.5585647663875872
+T44	Entity 1483 1494	Republicans
+N44	Reference T44 Wikipedia:07wbk	Republican_Party_$0028United_States$0029
+#44	Attributes T44	1.2555015239343568
+T45	Entity 1575 1579	Bush
+N45	Reference T45 Wikipedia:09b6zr	George_W_Bush
+#45	Attributes T45	0.5142001414067879
+T46	Entity 1592 1600	Seminole
+N46	Reference T46 Wikipedia:0198dl	Seminole
+#46	Attributes T46	0.15815771747483537
+T47	Entity 1612 1620	counties
+N47	Reference T47 Wikipedia:094z8	County
+#47	Attributes T47	0.07603774345897396
+T51	Entity 1653 1657	mood
+N51	Reference T51 Wikipedia:03dkf	Grammatical_mood
+#51	Attributes T51	-0.36204806832363734
+T52	Entity 1881 1885	Bush
+N52	Reference T52 Wikipedia:09b6zr	George_W_Bush
+#52	Attributes T52	0.59711085124837
+T53	Entity 1772 1780	Seminole
+N53	Reference T53 Wikipedia:0198dl	Seminole
+#53	Attributes T53	0.07808747493590046
+T55	Entity 1732 1736	Bush
+N55	Reference T55 Wikipedia:09b6zr	George_W_Bush
+#55	Attributes T55	0.35638142406683826
+T57	Entity 1965 1969	Bush
+N57	Reference T57 Wikipedia:09b6zr	George_W_Bush
+#57	Attributes T57	0.8106827409011237
+T58	Entity 2154 2158	Bush
+N58	Reference T58 Wikipedia:09b6zr	George_W_Bush
+#58	Attributes T58	0.4302342681033636
+T60	Entity 2199 2206	mansion
+N60	Reference T60 Wikipedia:02pvbb	Mansion
+#60	Attributes T60	0.38906907387508644
+T61	Entity 2229 2243	Secret Service
+N61	Reference T61 Wikipedia:0fynw	United_States_Secret_Service
+#61	Attributes T61	1.2133814057869106
+T62	Entity 2424 2431	Florida
+N62	Reference T62 Wikipedia:02xry	Florida
+#62	Attributes T62	1.5651958074464782
+T63	Entity 2300 2304	Bush
+N63	Reference T63 Wikipedia:09b6zr	George_W_Bush
+#63	Attributes T63	0.3893985352924795
+T64	Entity 2540 2553	Supreme Court
+N64	Reference T64 Wikipedia:07sz1	Supreme_Court_of_the_United_States
+#64	Attributes T64	0.47396058797070895
+T65	Entity 2688 2692	Bush
+N65	Reference T65 Wikipedia:09b6zr	George_W_Bush
+#65	Attributes T65	0.6249783582472961
+T66	Entity 2904 2911	mansion
+N66	Reference T66 Wikipedia:02pvbb	Mansion
+#66	Attributes T66	0.48104865825189036
+T68	Entity 2954 2958	Bush
+N68	Reference T68 Wikipedia:09b6zr	George_W_Bush
+#68	Attributes T68	0.6998946176645369
+T70	Entity 2994 2999	horns
+N70	Reference T70 Wikipedia:0319l	Horn_$0028instrument$0029
+#70	Attributes T70	-0.3647543905305354
+T71	Entity 3133 3140	mansion
+N71	Reference T71 Wikipedia:02pvbb	Mansion
+#71	Attributes T71	0.3123329223167107
+T72	Person 102 116	AUSTIN , Texas
+N1	Reference T72 Wikipedia:0w7vz	Austin
+T73	Person 124 143	Gov. George W. Bush
+N16	Reference T73 Wikipedia:09b6zr	George Bush
+T74	Person 124 128	Gov.
+N35	Reference T74 Wikipedia:09b6zr	George Bush
+T75	Person 118 120	AP
+N72	Reference T75 Wikipedia:0cv_2	Associated Press
+T4	Person 218 223	court
+N4	Reference T4 Wikipedia:05jg_3	Supreme Court of Florida
+T6	Person 281 295	Texas governor
+N6	Reference T6 Wikipedia:09b6zr	George Bush
+T14	Person 300 318	Republican nominee
+N14	Reference T14 Wikipedia:09b6zr	George Bush
+T11	Person 623 628	Laura
+N11	Reference T11 Wikipedia:04g8d	Laura Bush
+T12	Person 612 620	his wife
+N12	Reference T12 Wikipedia:04g8d	Laura Bush
+T16	Person 902 914	Waco , Texas
+N26	Reference T16 Wikipedia:0106dv	Waco
+T26	Person 945 954	reporters
+N73	Reference T26 Wikipedia:0fx2s1	Reporters
+T23	Person 1086 1100	Bush spokesman
+N23	Reference T23 Wikipedia:03wgl3	Dan Bartlett
+T27	Person 1086 1113	Bush spokesman Dan Bartlett
+N27	Reference T27 Wikipedia:03wgl3	Dan Bartlett
+T34	Person 1205 1277	a spokeswoman in the Bush-Cheney transition headquarters in McLean , Va.
+N34	Reference T34 Wikipedia:03pclz	Juleanna Glover Weiss
+T31	Person 1265 1277	McLean , Va.
+N31	Reference T31 Wikipedia:010m55	McLean
+T39	Person 1428 1433	state
+N39	Reference T39 Wikipedia:02xry	Florida
+T38	Person 1428 1447	state Supreme Court
+N38	Reference T38 Wikipedia:05jg_3	Supreme Court of Florida
+T42	Person 1686 1705	state Supreme Court
+N42	Reference T42 Wikipedia:05jg_3	Supreme Court of Florida
+T48	Person 1686 1691	state
+N48	Reference T48 Wikipedia:02xry	Florida
+T40	Person 1464 1472	Democrat
+N40	Reference T40 Wikipedia:0d05fv	Al Gore
+T41	Person 1464 1480	Democrat Al Gore
+N41	Reference T41 Wikipedia:0d05fv	Al Gore
+T49	Person 1605 1611	Martin
+N49	Reference T49 Wikipedia:0nt40	Martin County
+T50	Person 1785 1791	Martin
+N50	Reference T50 Wikipedia:0nt40	Martin County
+T76	Person 1848 1866	James A. Baker III
+N74	Reference T76 Wikipedia:01f6t5	James Baker
+T54	Person 1956 1964	Governor
+N54	Reference T54 Wikipedia:09b6zr	George Bush
+T77	Person 1956 1969	Governor Bush
+N75	Reference T77 Wikipedia:09b6zr	George Bush
+T78	Person 1869 1899	the head of Bush 's legal team
+N76	Reference T78 Wikipedia:01f6t5	James Baker
+T79	Person 1904 1931	a former secretary of state
+N77	Reference T79 Wikipedia:01f6t5	James Baker
+T59	Person 2187 2195	governor
+N59	Reference T59 Wikipedia:0fqqygh	Governor of Texas
+T56	Person 2284 2289	court
+N56	Reference T56 Wikipedia:05jg_3	Supreme Court of Florida
+T80	Person 2424 2442	Florida high court
+N78	Reference T80 Wikipedia:05jg_3	Supreme Court of Florida
+T81	Person 2533 2537	U.S.
+N79	Reference T81 Wikipedia:0dvxqk	United States
+T82	Person 2527 2553	the ( U.S. ) Supreme Court
+N80	Reference T82 Wikipedia:07sz1	Supreme Court of the United States
+T83	Person 2567 2576	reporters
+N81	Reference T83 Wikipedia:0fx2s1	Reporters
+T84	Person 2593 2615	the trailing candidate
+N82	Reference T84 Wikipedia:09b6zr	George Bush
+T67	Person 2892 2900	governor
+N67	Reference T67 Wikipedia:0fqqygh	Governor of Texas
+T85	Person 2787 2794	country
+N83	Reference T85 Wikipedia:0dvxqk	United States
+T86	Person 2837 2845	pro-Gore
+N84	Reference T86 Wikipedia:0d05fv	Al Gore
+T69	Person 2963 2975	running mate
+N69	Reference T69 Wikipedia:0d0vj4	Dick Cheney
+T87	Person 2963 2987	running mate Dick Cheney
+N85	Reference T87 Wikipedia:0d0vj4	Dick Cheney
+T88	Person 2976 2987	Dick Cheney
+N86	Reference T88 Wikipedia:0d0vj4	Dick Cheney
