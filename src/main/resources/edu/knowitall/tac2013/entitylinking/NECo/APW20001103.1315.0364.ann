@@ -1,0 +1,160 @@
+T1	Entity 230 235	coach
+N1	Reference T1 Wikipedia:02y5kn	Coach_$0028sport$0029
+#1	Attributes T1	0.15306093269286192
+T2	Entity 128 138	Terry Shea
+N2	Reference T2 Wikipedia:0274qkl	Terry_Shea
+#2	Attributes T2	0.7229433003677945
+T3	Entity 202 209	Rutgers
+N3	Reference T3 Wikipedia:0ks67	Rutgers_University
+#3	Attributes T3	0.3209407855166344
+T4	Entity 513 522	anonymity
+N4	Reference T4 Wikipedia:018sn4	Anonymity
+#4	Attributes T4	0.8329921187609336
+T10	Entity 553 571	Gannett Newspapers
+N10	Reference T10 Wikipedia:02630g	Gannett_Company
+#10	Attributes T10	0.7902041093661001
+T11	Entity 561 571	Newspapers
+N11	Reference T11 Wikipedia:05jnl	Newspaper
+#11	Attributes T11	0.71281165060882
+T14	Entity 544 550	Newark
+N14	Reference T14 Wikipedia:0hptm	Newark$002C_New_Jersey
+#14	Attributes T14	0.6959213041957495
+T15	Entity 750 758	football
+N15	Reference T15 Wikipedia:01zff	College_football
+#15	Attributes T15	0.0965624948984537
+T18	Entity 797 804	Rutgers
+N18	Reference T18 Wikipedia:0ks67	Rutgers_University
+#18	Attributes T18	0.6774626139904205
+T19	Entity 850 865	news conference
+N19	Reference T19 Wikipedia:01s8fx	News_conference
+#19	Attributes T19	0.6109898343401681
+T21	Entity 945 954	Telephone
+N21	Reference T21 Wikipedia:07cx4	Telephone
+#21	Attributes T21	0.5320704198788931
+T22	Entity 976 983	Rutgers
+N22	Reference T22 Wikipedia:0ks67	Rutgers_University
+#22	Attributes T22	0.7738412487151309
+T23	Entity 1003 1011	director
+N23	Reference T23 Wikipedia:02jknp	Film_director
+#23	Attributes T23	0.29068405528161456
+T25	Entity 984 1011	sports information director
+N25	Reference T25 Wikipedia:03m848v	Sports_information_director
+#25	Attributes T25	0.5725763218860456
+T26	Entity 1028 1048	The Associated Press
+N26	Reference T26 Wikipedia:0cv_2	Associated_Press
+#26	Attributes T26	0.8728572184665995
+T27	Entity 1085 1100	Scarlet Knights
+N27	Reference T27 Wikipedia:027fbb1	Rutgers_Scarlet_Knights
+#27	Attributes T27	-0.7457867155253305
+T38	Entity 1593 1598	coach
+N38	Reference T38 Wikipedia:02y5kn	Coach_$0028sport$0029
+#38	Attributes T38	0.4005368458750639
+T43	Entity 1798 1802	1996
+T45	Entity 2057 2065	Big East
+N45	Reference T45 Wikipedia:0kdtw	Big_East_Conference
+#45	Attributes T45	1.6500420968004852
+T46	Entity 1992 1996	1998
+T48	Entity 2106 2114	Big East
+N48	Reference T48 Wikipedia:0kdtw	Big_East_Conference
+#48	Attributes T48	1.5606702742838305
+T50	Entity 2186 2201	Scarlet Knights
+N50	Reference T50 Wikipedia:027fbb1	Rutgers_Scarlet_Knights
+#50	Attributes T50	-0.4677593590263933
+T51	Entity 2338 2345	Rutgers
+N51	Reference T51 Wikipedia:0ks67	Rutgers_University
+#51	Attributes T51	0.5421398915435758
+T55	Entity 2535 2556	defensive coordinator
+N55	Reference T55 Wikipedia:03nxcl	Defensive_coordinator
+#55	Attributes T55	0.8630350095136705
+T60	Person 302 318	Associated Press
+N28	Reference T60 Wikipedia:0cv_2	Associated Press
+T61	Person 122 124	AP
+N43	Reference T61 Wikipedia:0cv_2	Associated Press
+T62	Person 328 332	Shea
+N46	Reference T62 Wikipedia:0274qkl	Terry Shea
+T63	Person 1759 1763	Shea
+N49	Reference T63 Wikipedia:0274qkl	Terry Shea
+T64	Person 1880 1884	Shea
+N60	Reference T64 Wikipedia:0274qkl	Terry Shea
+T65	Person 622 626	Shea
+N61	Reference T65 Wikipedia:0274qkl	Terry Shea
+T66	Person 716 720	Shea
+N62	Reference T66 Wikipedia:0274qkl	Terry Shea
+T67	Person 658 662	Shea
+N63	Reference T67 Wikipedia:0274qkl	Terry Shea
+T68	Person 2127 2131	Shea
+N64	Reference T68 Wikipedia:0274qkl	Terry Shea
+T69	Person 2246 2250	Shea
+N65	Reference T69 Wikipedia:0274qkl	Terry Shea
+T24	Person 1331 1335	Shea
+N24	Reference T24 Wikipedia:0274qkl	Terry Shea
+T32	Person 2417 2421	Shea
+N32	Reference T32 Wikipedia:0274qkl	Terry Shea
+T49	Person 2253 2257	Shea
+N66	Reference T49 Wikipedia:0274qkl	Terry Shea
+T9	Person 128 209	Terry Shea , who failed to produce a winning season in four-plus years at Rutgers
+N9	Reference T9 Wikipedia:0274qkl	Terry Shea
+T20	Person 328 358	Shea , who has an 11-41 record
+N20	Reference T20 Wikipedia:0274qkl	Terry Shea
+T33	Person 397 432	athletic director Robert E. Mulcahy
+N33	Reference T33 Wikipedia:027y5z3	Robert E. Mulcahy III
+T70	Person 646 653	Mulcahy
+N67	Reference T70 Wikipedia:027y5z3	Robert E. Mulcahy III
+T71	Person 964 971	Mulcahy
+N68	Reference T71 Wikipedia:027y5z3	Robert E. Mulcahy III
+T72	Person 1318 1325	Mulcahy
+N69	Reference T72 Wikipedia:027y5z3	Robert E. Mulcahy III
+T73	Person 805 840	athletic director Robert E. Mulcahy
+N70	Reference T73 Wikipedia:027y5z3	Robert E. Mulcahy III
+T17	Person 525 550	The Star-Ledger of Newark
+N17	Reference T17 Wikipedia:03y7n8	The Star-Ledger
+T7	Person 576 600	The Record of Hackensack
+N7	Reference T7 Wikipedia:07vcmp	The Record
+T8	Person 1132 1151	Big East Conference
+N8	Reference T8 Wikipedia:0kdtw	Big East Conference
+T12	Person 1227 1240	West Virginia
+N12	Reference T12 Wikipedia:02wvf2s	West Virginia Mountaineers football
+T13	Person 1243 1253	Notre Dame
+N13	Reference T13 Wikipedia:07scn1n	Notre Dame Fighting Irish football
+T28	Person 1258 1266	Syracuse
+N29	Reference T28 Wikipedia:057xlyq	Syracuse Orange football
+T29	Person 1275 1282	Rutgers
+N30	Reference T29 Wikipedia:027fbb1	Rutgers Scarlet Knights
+T30	Person 2086 2093	Rutgers
+N31	Reference T30 Wikipedia:027fbb1	Rutgers Scarlet Knights
+T31	Person 1513 1522	Villanova
+N34	Reference T31 Wikipedia:05pdbp6	Villanova Wildcats
+T34	Person 1527 1547	Division IAA program
+N35	Reference T34 Wikipedia:031fsz	Division I (NCAA)
+T35	Person 1527 1539	Division IAA
+N36	Reference T35 Wikipedia:031fsz	Division I (NCAA)
+T36	Person 1554 1633	Buffalo , which recently announced its coach would not be returning next season
+N37	Reference T36 Wikipedia:03cpmgr	Buffalo Bulls football
+T37	Person 1636 1643	Rutgers
+N39	Reference T37 Wikipedia:027fbb1	Rutgers Scarlet Knights
+T39	Person 1744 1756	winless Navy
+N40	Reference T39 Wikipedia:025yr0y	Navy Midshipmen football
+T40	Person 1773 1794	the fired Doug Graber
+N41	Reference T40 Wikipedia:064q39n	Doug Graber
+T41	Person 1843 1853	Bill Walsh
+N47	Reference T41 Wikipedia:0ckyvr	Bill Walsh College Football
+T42	Person 2499 2505	Toledo
+N42	Reference T42 Wikipedia:09v4y2q	Toledo Rockets football
+T44	Person 2484 2505	Gary Pinkel of Toledo
+N44	Reference T44 Wikipedia:08qvjx	Gary Pinkel
+T47	Person 2465 2481	Western Michigan
+N54	Reference T47 Wikipedia:0fyp9f	Western Michigan Broncos football
+T52	Person 2574 2584	Notre Dame
+N52	Reference T52 Wikipedia:07scn1n	Notre Dame Fighting Irish football
+T54	Person 2449 2481	Gary Darnell of Western Michigan
+N56	Reference T54 Wikipedia:08vn5h	Gary Darnell
+T53	Person 2529 2534	Miami
+N53	Reference T53 Wikipedia:0g85_5	Miami RedHawks football
+T56	Person 2529 2569	Miami defensive coordinator Greg Schiano
+N57	Reference T56 Wikipedia:0c6lth	Greg Schiano
+T57	Person 282 292	the school
+N58	Reference T57 Wikipedia:0ks67	Rutgers University
+T5	Person 397 414	athletic director
+N5	Reference T5 Wikipedia:027y5z3	Robert E. Mulcahy III
+T6	Person 797 822	Rutgers athletic director
+N6	Reference T6 Wikipedia:027y5z3	Robert E. Mulcahy III

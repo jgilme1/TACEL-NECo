@@ -1,0 +1,307 @@
+T1	Entity 72 81	President
+T3	Entity 93 98	Egypt
+T6	Entity 295 306	Palestinian
+N6	Reference T6 Wikipedia:0jt7v76	Palestinian_people
+#6	Attributes T6	0.7675472586847697
+T8	Entity 295 318	Palestinian territories
+N8	Reference T8 Wikipedia:0nyg5	Palestinian_territories
+#8	Attributes T8	1.4619100906634979
+T10	Entity 201 209	Egyptian
+N10	Reference T10 Wikipedia:02k54	Egypt
+#10	Attributes T10	0.46654813906437925
+T12	Entity 172 184	Bashar Assad
+N12	Reference T12 Wikipedia:01_vwx	Bashar_al_Assad
+#12	Attributes T12	1.6000466975200236
+T14	Entity 151 156	Syria
+N14	Reference T14 Wikipedia:06vbd	Syria
+#14	Attributes T14	2.5656446568109033
+T15	Entity 107 112	Egypt
+N15	Reference T15 Wikipedia:02k54	Egypt
+#15	Attributes T15	1.7571258874026907
+T16	Entity 127 141	foreign policy
+N16	Reference T16 Wikipedia:01hy1q	Foreign_policy
+#16	Attributes T16	0.869344694136245
+T17	Entity 279 287	violence
+N17	Reference T17 Wikipedia:0chbx	Violence
+#17	Attributes T17	0.3575985239948352
+T18	Entity 246 253	Mideast
+N18	Reference T18 Wikipedia:04wsz	Middle_East
+#18	Attributes T18	0.8721437876226237
+T19	Entity 451 459	Egyptian
+N19	Reference T19 Wikipedia:02k54	Egypt
+#19	Attributes T19	0.8158556800922223
+T22	Entity 477 486	Amr Mussa
+N22	Reference T22 Wikipedia:01cp_j	Amr_Moussa
+#22	Attributes T22	1.5852263113937057
+T23	Entity 441 448	Mubarak
+N23	Reference T23 Wikipedia:0dnps	Hosni_Mubarak
+#23	Attributes T23	2.055438812097135
+T25	Entity 418 422	Iraq
+N25	Reference T25 Wikipedia:0d05q4	Iraq
+#25	Attributes T25	1.1062733014444333
+T27	Entity 588 598	Gaza Strip
+N27	Reference T27 Wikipedia:0357_	Gaza_Strip
+#27	Attributes T27	2.1147739363447084
+T28	Entity 643 655	Palestinians
+N28	Reference T28 Wikipedia:0jt7v76	Palestinian_people
+#28	Attributes T28	0.8948567466446125
+T29	Entity 588 592	Gaza
+N29	Reference T29 Wikipedia:0fdkl	Gaza
+#29	Attributes T29	1.3550357151677996
+T30	Entity 576 585	West Bank
+N30	Reference T30 Wikipedia:082pc	West_Bank
+#30	Attributes T30	1.8962424233377975
+T31	Entity 498 504	Syrian
+N31	Reference T31 Wikipedia:06vbd	Syria
+#31	Attributes T31	1.8322095989296205
+T32	Entity 603 612	Jerusalem
+N32	Reference T32 Wikipedia:0430_	Jerusalem
+#32	Attributes T32	1.6972283230495788
+T34	Entity 826 839	peace process
+N34	Reference T34 Wikipedia:0jj0k	Oslo_Accords
+#34	Attributes T34	0.10753818142796874
+T35	Entity 882 887	state
+N35	Reference T35 Wikipedia:0qntk96	State
+#35	Attributes T35	-0.6703117253082644
+T36	Entity 704 711	Mubarak
+N36	Reference T36 Wikipedia:0dnps	Hosni_Mubarak
+#36	Attributes T36	2.0647255904461193
+T39	Entity 907 912	Assad
+N39	Reference T39 Wikipedia:01_vwx	Bashar_al_Assad
+#39	Attributes T39	1.4168001947473206
+T40	Entity 1105 1112	economy
+N40	Reference T40 Wikipedia:0gfps3	Economy
+#40	Attributes T40	0.756736861345052
+T41	Entity 1069 1080	bureaucracy
+N41	Reference T41 Wikipedia:01g_y	Bureaucracy
+#41	Attributes T41	1.050416021279453
+T42	Entity 1374 1378	Arab
+N42	Reference T42 Wikipedia:0xff	Arab_people
+#42	Attributes T42	1.0018315024753945
+T44	Entity 1200 1207	funeral
+N44	Reference T44 Wikipedia:02_g0	Funeral
+#44	Attributes T44	0.9082662954673499
+T47	Entity 1413 1419	Syrian
+N47	Reference T47 Wikipedia:06vbd	Syria
+#47	Attributes T47	1.6751960723397163
+T48	Entity 1413 1429	Syrian president
+T52	Entity 1570 1578	grooming
+N52	Reference T52 Wikipedia:0ds4250	Groom
+#52	Attributes T52	-0.6066433261286216
+T53	Entity 1501 1507	Bashar
+N53	Reference T53 Wikipedia:01_vwx	Bashar_al_Assad
+#53	Attributes T53	1.5498038878312517
+T54	Entity 1659 1670	Palestinian
+N54	Reference T54 Wikipedia:0jt7v76	Palestinian_people
+#54	Attributes T54	0.7107682448043878
+T55	Entity 1649 1655	Syrian
+N55	Reference T55 Wikipedia:06vbd	Syria
+#55	Attributes T55	1.6282084973687565
+T56	Entity 1701 1720	Palestinian-Israeli
+N56	Reference T56 Wikipedia:02gzrk	Arab_citizens_of_Israel
+#56	Attributes T56	0.6858362877999373
+T57	Entity 1755 1763	violence
+N57	Reference T57 Wikipedia:0chbx	Violence
+#57	Attributes T57	0.5815009325510838
+T58	Entity 1689 1697	deadlock
+N58	Reference T58 Wikipedia:0qcdj	Deadlock
+#58	Attributes T58	0.6242491222063298
+T59	Entity 1879 1883	U.S.
+N59	Reference T59 Wikipedia:09c7w0	United_States
+#59	Attributes T59	0.795460465397331
+T60	Entity 1879 1893	U.S. elections
+N60	Reference T60 Wikipedia:05ycfv	United_States_House_of_Representatives_elections$002C_2006
+#60	Attributes T60	0.5719256108749065
+T62	Entity 1921 1931	Ehud Barak
+N62	Reference T62 Wikipedia:016hk4	Ehud_Barak
+#62	Attributes T62	1.542108961657093
+T64	Entity 1898 1905	Israeli
+N64	Reference T64 Wikipedia:03spz	Israel
+#64	Attributes T64	0.8182859657603323
+T65	Entity 1780 1785	Syria
+N65	Reference T65 Wikipedia:06vbd	Syria
+#65	Attributes T65	2.76052874198062
+T67	Entity 2147 2153	Israel
+N67	Reference T67 Wikipedia:03spz	Israel
+#67	Attributes T67	2.2446354530295562
+T68	Entity 2099 2112	Golan Heights
+N68	Reference T68 Wikipedia:03cdz	Golan_Heights
+#68	Attributes T68	1.59617298548774
+T70	Entity 2056 2061	Syria
+N70	Reference T70 Wikipedia:06vbd	Syria
+#70	Attributes T70	2.2732204650682624
+T71	Entity 2127 2134	plateau
+N71	Reference T71 Wikipedia:02mwzg	Plateau
+#71	Attributes T71	0.5798432796005957
+T72	Entity 2157 2161	1967
+T73	Entity 2164 2170	Israel
+N73	Reference T73 Wikipedia:03spz	Israel
+#73	Attributes T73	2.1201813287458657
+T74	Entity 2254 2259	Golan
+N74	Reference T74 Wikipedia:03cdz	Golan_Heights
+#74	Attributes T74	0.7369278642012937
+T75	Entity 2358 2364	Israel
+N75	Reference T75 Wikipedia:03spz	Israel
+#75	Attributes T75	1.8605027619127275
+T77	Entity 2416 2422	France
+N77	Reference T77 Wikipedia:0f8l9c	France
+#77	Attributes T77	1.2511157053889603
+T78	Entity 2479 2483	U.N.
+N78	Reference T78 Wikipedia:07t65	United_Nations
+#78	Attributes T78	1.1875049162149234
+T79	Entity 2479 2493	U.N. sanctions
+N79	Reference T79 Wikipedia:06p61k	Iraq_sanctions
+#79	Attributes T79	0.8493507302253873
+T80	Entity 2537 2543	Kuwait
+N80	Reference T80 Wikipedia:047yc	Kuwait
+#80	Attributes T80	1.574010317610486
+T81	Entity 2407 2413	Russia
+N81	Reference T81 Wikipedia:06bnz	Russia
+#81	Attributes T81	1.199870308107559
+T83	Entity 2367 2374	Mubarak
+N83	Reference T83 Wikipedia:0dnps	Hosni_Mubarak
+#83	Attributes T83	1.723422848954055
+T84	Entity 2520 2524	1990
+T85	Entity 2425 2431	Jordan
+N85	Reference T85 Wikipedia:03__y	Jordan
+#85	Attributes T85	1.7909513744625403
+T86	Entity 2457 2464	Baghdad
+N86	Reference T86 Wikipedia:01fqm	Baghdad
+#86	Attributes T86	0.3854589469461418
+T87	Entity 2505 2509	Iraq
+N87	Reference T87 Wikipedia:0d05q4	Iraq
+#87	Attributes T87	1.270129472767025
+T88	Entity 2484 2493	sanctions
+N88	Reference T88 Wikipedia:0253gd	Economic_sanctions
+#88	Attributes T88	0.3073437403693137
+T89	Entity 2436 2441	Yemen
+N89	Reference T89 Wikipedia:01z88t	Yemen
+#89	Attributes T89	1.779453137942603
+T90	Entity 2567 2571	Arab
+N90	Reference T90 Wikipedia:0xff	Arab_people
+#90	Attributes T90	0.8936225484842585
+T91	Entity 2546 2550	Iraq
+N91	Reference T91 Wikipedia:0d05q4	Iraq
+#91	Attributes T91	1.6048847759951075
+T92	Entity 2604 2608	U.S.
+N92	Reference T92 Wikipedia:09c7w0	United_States
+#92	Attributes T92	0.8118194954245841
+T93	Entity 2699 2703	Iraq
+N93	Reference T93 Wikipedia:0d05q4	Iraq
+#93	Attributes T93	1.480896224110866
+T94	Entity 2778 2783	Syria
+N94	Reference T94 Wikipedia:06vbd	Syria
+#94	Attributes T94	2.8085419795358293
+T95	Entity 2826 2833	Baghdad
+N95	Reference T95 Wikipedia:01fqm	Baghdad
+#95	Attributes T95	0.4976945880312499
+T96	Entity 2788 2793	Egypt
+N96	Reference T96 Wikipedia:02k54	Egypt
+#96	Attributes T96	2.0116990934015826
+T97	Entity 2836 2841	Egypt
+N97	Reference T97 Wikipedia:02k54	Egypt
+#97	Attributes T97	2.073313346463404
+T98	Entity 2846 2851	Syria
+N98	Reference T98 Wikipedia:06vbd	Syria
+#98	Attributes T98	2.738005905117279
+T100	Entity 2910 2921	Hafez Assad
+N100	Reference T100 Wikipedia:0jb5n	Hafez_al_Assad
+#100	Attributes T100	0.8873613936696907
+T102	Entity 2991 2997	Israel
+N102	Reference T102 Wikipedia:03spz	Israel
+#102	Attributes T102	2.115486695125934
+T103	Entity 2943 2947	Arab
+N103	Reference T103 Wikipedia:0xff	Arab_people
+#103	Attributes T103	0.7412184362068959
+T104	Entity 3058 3064	treaty
+N104	Reference T104 Wikipedia:07h93	Treaty
+#104	Attributes T104	1.0799479105513294
+T105	Entity 3052 3064	peace treaty
+N105	Reference T105 Wikipedia:018vqy	Camp_David_Accords
+#105	Attributes T105	1.0804969113545932
+T106	Entity 3070 3076	Israel
+N106	Reference T106 Wikipedia:03spz	Israel
+#106	Attributes T106	2.1561713270075002
+T107	Entity 3032 3037	Egypt
+N107	Reference T107 Wikipedia:02k54	Egypt
+#107	Attributes T107	1.8650489809086293
+T4	Person 65 81	Syrian President
+N1	Reference T4 Wikipedia:01_vwx	Bashar al-Assad
+T9	Person 321 326	Assad
+N2	Reference T9 Wikipedia:01_vwx	Bashar al-Assad
+T13	Person 907 917	Assad , 35
+N3	Reference T13 Wikipedia:01_vwx	Bashar al-Assad
+T26	Person 1167 1176	President
+N4	Reference T26 Wikipedia:01_vwx	Bashar al-Assad
+T43	Person 1167 1189	President Bashar Assad
+N9	Reference T43 Wikipedia:01_vwx	Bashar al-Assad
+T108	Person 1177 1189	Bashar Assad
+N13	Reference T108 Wikipedia:01_vwx	Bashar al-Assad
+T45	Person 1501 1535	Bashar , educated as an eye doctor
+N24	Reference T45 Wikipedia:01_vwx	Bashar al-Assad
+T46	Person 1525 1535	eye doctor
+N26	Reference T46 Wikipedia:01_vwx	Bashar al-Assad
+T49	Person 1589 1598	president
+N43	Reference T49 Wikipedia:01_vwx	Bashar al-Assad
+T50	Person 2267 2272	Assad
+N45	Reference T50 Wikipedia:01_vwx	Bashar al-Assad
+T51	Person 2379 2384	Assad
+N46	Reference T51 Wikipedia:01_vwx	Bashar al-Assad
+T76	Person 151 169	Syria 's president
+N48	Reference T76 Wikipedia:01_vwx	Bashar al-Assad
+T82	Person 369 378	president
+N49	Reference T82 Wikipedia:01_vwx	Bashar al-Assad
+T99	Person 494 511	The Syrian leader
+N50	Reference T99 Wikipedia:01_vwx	Bashar al-Assad
+T33	Person 716 721	Assad
+N33	Reference T33 Wikipedia:01_vwx	Bashar al-Assad
+T7	Person 220 233	Hosni Mubarak
+N7	Reference T7 Wikipedia:0dnps	Hosni Mubarak
+T101	Person 201 233	Egyptian President Hosni Mubarak
+N51	Reference T101 Wikipedia:0dnps	Hosni Mubarak
+T109	Person 201 219	Egyptian President
+N72	Reference T109 Wikipedia:0dnps	Hosni Mubarak
+T5	Person 970 981	Hafez Assad
+N5	Reference T5 Wikipedia:0jb5n	Hafez al-Assad
+T11	Person 957 967	his father
+N11	Reference T11 Wikipedia:0jb5n	Hafez al-Assad
+T37	Person 1404 1429	The late Syrian president
+N37	Reference T37 Wikipedia:0jb5n	Hafez al-Assad
+T38	Person 1211 1221	his father
+N38	Reference T38 Wikipedia:0jb5n	Hafez al-Assad
+T110	Person 2312 2322	his father
+N76	Reference T110 Wikipedia:0jb5n	Hafez al-Assad
+T111	Person 99 112	CAIRO , Egypt
+N82	Reference T111 Wikipedia:0ysg4	Cairo
+T24	Person 451 486	Egyptian Foreign Minister Amr Mussa
+N84	Reference T24 Wikipedia:01cp_j	Amr Moussa
+T112	Person 451 476	Egyptian Foreign Minister
+N99	Reference T112 Wikipedia:01cp_j	Amr Moussa
+T20	Person 893 899	Moussa
+N20	Reference T20 Wikipedia:01cp_j	Amr Moussa
+T21	Person 1055 1065	his nation
+T2	Person 65 71	Syrian
+N21	Reference T2 Wikipedia:06vbd	Syria
+N101	Reference T21 Wikipedia:06vbd	Syria
+T113	Person 1059 1065	nation
+N108	Reference T113 Wikipedia:06vbd	Syria
+T114	Person 1390 1396	Moussa
+N109	Reference T114 Wikipedia:01cp_j	Amr Moussa
+T115	Person 1374 1384	Arab world
+N110	Reference T115 Wikipedia:0150_4	Arab world
+T116	Person 1789 1803	government-run
+N111	Reference T116 Wikipedia:06vbd	Syria
+T61	Person 1898 1931	Israeli Prime Minister Ehud Barak
+N61	Reference T61 Wikipedia:016hk4	Ehud Barak
+T63	Person 1898 1920	Israeli Prime Minister
+N63	Reference T63 Wikipedia:016hk4	Ehud Barak
+T66	Person 1960 1990	eader of a minority government
+N66	Reference T66 Wikipedia:016hk4	Ehud Barak
+T69	Person 2115 2161	a strategic plateau captured by Israel in 1967
+N69	Reference T69 Wikipedia:03cdz	Golan Heights
+T117	Person 1993 1999	Syrian
+T118	Person 2000 2007	Israeli
+N112	Reference T117 Wikipedia:06vbd	Syria
+N113	Reference T118 Wikipedia:03spz	Israel
+T119	Person 2645 2651	Moussa
+N114	Reference T119 Wikipedia:01cp_j	Amr Moussa

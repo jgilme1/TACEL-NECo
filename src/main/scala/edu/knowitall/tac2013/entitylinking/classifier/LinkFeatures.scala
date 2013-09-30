@@ -10,13 +10,13 @@ class KBPQueryLink(val query: KBPQuery, val link: EntityLink)
 
 object LinkFeatures {
   
-  val kbIdToNamedEntitiesMap = {for(line <- scala.io.Source.fromFile("KbNamedEntitiesMap.txt")(scala.io.Codec.UTF8).getLines().toSeq) yield{
-    val values = line.split("\t")
-    val kbId = values(0)
-    val namedEntities = values.slice(1,values.length).toList
-    (kbId,namedEntities)
-  }
-  }.toMap
+//  val kbIdToNamedEntitiesMap = {for(line <- scala.io.Source.fromFile("KbNamedEntitiesMap.txt")(scala.io.Codec.UTF8).getLines().toSeq) yield{
+//    val values = line.split("\t")
+//    val kbId = values(0)
+//    val namedEntities = values.slice(1,values.length).toList
+//    (kbId,namedEntities)
+//  }
+//  }.toMap
   
 
   type LinkFeature = Feature[KBPQueryLink, Double]
@@ -115,47 +115,47 @@ object LinkFeatures {
     }
   }
   
-  object namedEntityOverlap extends LinkFeature("Named Entity Overlap Score"){
-    def apply(link: KBPQueryLink)= {
-      val linkName = link.link.entity.name
-      val kbId = link.query.helper.wikiMap.get(linkName).getOrElse("")
-      var result = 0.0
-      if(kbIdToNamedEntitiesMap.contains(kbId)){
-        val namedEntities = kbIdToNamedEntitiesMap.get(kbId).get
-        if(link.query.corefHelper.haveNamedEntityInCommon(link.query.baseDir, link.link.entity.name, link.query.id, targetNamedEntities = Some(namedEntities))){
-          result = 1.0
-        }
-      }
-      else{
-	      if(link.query.corefHelper.haveNamedEntityInCommon(link.query.baseDir, link.link.entity.name, link.query.id)){
-	        1.0
-	      }
-      }
-      println("Returning value: " + result)
-      result
-    }
-  }
+//  object namedEntityOverlap extends LinkFeature("Named Entity Overlap Score"){
+//    def apply(link: KBPQueryLink)= {
+//      val linkName = link.link.entity.name
+//      val kbId = link.query.helper.wikiMap.get(linkName).getOrElse("")
+//      var result = 0.0
+//      if(kbIdToNamedEntitiesMap.contains(kbId)){
+//        val namedEntities = kbIdToNamedEntitiesMap.get(kbId).get
+//        if(link.query.corefHelper.haveNamedEntityInCommon(link.query.baseDir, link.link.entity.name, link.query.id, targetNamedEntities = Some(namedEntities))){
+//          result = 1.0
+//        }
+//      }
+//      else{
+//	      if(link.query.corefHelper.haveNamedEntityInCommon(link.query.baseDir, link.link.entity.name, link.query.id)){
+//	        1.0
+//	      }
+//      }
+//      println("Returning value: " + result)
+//      result
+//    }
+//  }
   
-  object namedEntityOverlapScore extends LinkFeature("NE score"){
-    def apply(link: KBPQueryLink)= {
-      val linkName = link.link.entity.name
-      val kbId = link.query.helper.wikiMap.get(linkName).getOrElse("")
-      var result = 0.0
-      if(kbIdToNamedEntitiesMap.contains(kbId)){
-        val namedEntities = kbIdToNamedEntitiesMap.get(kbId).get
-        if(link.query.corefHelper.haveNamedEntityInCommon(link.query.baseDir, link.link.entity.name, link.query.id, targetNamedEntities = Some(namedEntities))){
-          result = 1.0
-        }
-      }
-      else{
-	      if(link.query.corefHelper.haveNamedEntityInCommon(link.query.baseDir, link.link.entity.name, link.query.id)){
-	        1.0
-	      }
-      }
-      println("Returning value: " + result)
-      result
-    }
-  }
+//  object namedEntityOverlapScore extends LinkFeature("NE score"){
+//    def apply(link: KBPQueryLink)= {
+//      val linkName = link.link.entity.name
+//      val kbId = link.query.helper.wikiMap.get(linkName).getOrElse("")
+//      var result = 0.0
+//      if(kbIdToNamedEntitiesMap.contains(kbId)){
+//        val namedEntities = kbIdToNamedEntitiesMap.get(kbId).get
+//        if(link.query.corefHelper.haveNamedEntityInCommon(link.query.baseDir, link.link.entity.name, link.query.id, targetNamedEntities = Some(namedEntities))){
+//          result = 1.0
+//        }
+//      }
+//      else{
+//	      if(link.query.corefHelper.haveNamedEntityInCommon(link.query.baseDir, link.link.entity.name, link.query.id)){
+//	        1.0
+//	      }
+//      }
+//      println("Returning value: " + result)
+//      result
+//    }
+//  }
   
   object nameAmbiguity extends LinkFeature("Ambiguity of Name in KB"){
     def apply(link: KBPQueryLink) = {

@@ -1,0 +1,248 @@
+T1	Entity 101 107	Senate
+T2	Entity 95 100	Texas
+T3	Entity 95 107	Texas Senate
+T4	Entity 193 198	state
+N4	Reference T4 Wikipedia:0d0xs	US_state
+#4	Attributes T4	-0.1845466064153472
+T5	Entity 193 205	state Senate
+N5	Reference T5 Wikipedia:03w950g	Texas_Senate
+#5	Attributes T5	0.6326421307035317
+T6	Entity 268 273	Texas
+N6	Reference T6 Wikipedia:07b_l	Texas
+#6	Attributes T6	1.1711542743218994
+T7	Entity 263 273	East Texas
+N7	Reference T7 Wikipedia:02590c	East_Texas
+#7	Attributes T7	1.7914988840405017
+T9	Entity 142 153	Republicans
+N9	Reference T9 Wikipedia:07wbk	Republican_Party_$0028United_States$0029
+#9	Attributes T9	1.8767160131182057
+T10	Entity 120 125	Texas
+N10	Reference T10 Wikipedia:07b_l	Texas
+#10	Attributes T10	0.9097326096871293
+T11	Entity 287 299	Todd Staples
+N11	Reference T11 Wikipedia:04njlg	Todd_Staples
+#11	Attributes T11	1.2118503359711517
+T12	Entity 344 354	Democratic
+N12	Reference T12 Wikipedia:0d075m	Democratic_Party_$0028United_States$0029
+#12	Attributes T12	1.1956429303041964
+T14	Entity 276 286	Republican
+N14	Reference T14 Wikipedia:07wbk	Republican_Party_$0028United_States$0029
+#14	Attributes T14	1.6865885955524225
+T16	Entity 355 361	lawyer
+N16	Reference T16 Wikipedia:04gc2	Lawyer
+#16	Attributes T16	0.7172906438900136
+T20	Entity 490 499	incumbent
+N20	Reference T20 Wikipedia:01_sc3	Incumbent
+#20	Attributes T20	1.7935775338613287
+T24	Entity 686 705	lieutenant governor
+N24	Reference T24 Wikipedia:0fkzq	Lieutenant_governor
+#24	Attributes T24	0.04214981899244541
+T26	Entity 543 555	Texas Senate
+N26	Reference T26 Wikipedia:03w950g	Texas_Senate
+#26	Attributes T26	1.574070480962088
+T27	Entity 774 789	Gov. Rick Perry
+N27	Reference T27 Wikipedia:02nlj_	Rick_Perry
+#27	Attributes T27	0.9255671475650227
+T32	Entity 543 548	Texas
+N32	Reference T32 Wikipedia:07b_l	Texas
+#32	Attributes T32	0.6347718737057326
+T34	Entity 714 728	George W. Bush
+N34	Reference T34 Wikipedia:09b6zr	George_W_Bush
+#34	Attributes T34	1.7863754179748206
+T35	Entity 779 789	Rick Perry
+N35	Reference T35 Wikipedia:02nlj_	Rick_Perry
+#35	Attributes T35	1.2266189912217798
+T37	Entity 876 885	professor
+N37	Reference T37 Wikipedia:016fly	Professor
+#37	Attributes T37	1.2690130315112083
+T38	Entity 910 925	Rice University
+N38	Reference T38 Wikipedia:06fq2	Rice_University
+#38	Attributes T38	1.562716565794885
+T40	Entity 929 936	Houston
+N40	Reference T40 Wikipedia:03l2n	Houston
+#40	Attributes T40	1.4458050505522775
+T41	Entity 889 906	political science
+N41	Reference T41 Wikipedia:062z7	Political_science
+#41	Attributes T41	1.3141890194504047
+T43	Entity 824 836	state Senate
+N43	Reference T43 Wikipedia:03w950g	Texas_Senate
+#43	Attributes T43	0.5541494754641567
+T44	Entity 824 829	state
+N44	Reference T44 Wikipedia:0d0xs	US_state
+#44	Attributes T44	-0.08218333832783634
+T48	Entity 976 986	Democratic
+N48	Reference T48 Wikipedia:0d075m	Democratic_Party_$0028United_States$0029
+#48	Attributes T48	1.7268638720498954
+T49	Entity 976 992	Democratic Party
+N49	Reference T49 Wikipedia:0d075m	Democratic_Party_$0028United_States$0029
+#49	Attributes T49	1.257324124246962
+T50	Entity 1046 1051	Texas
+N50	Reference T50 Wikipedia:07b_l	Texas
+#50	Attributes T50	1.0226111134784182
+T51	Entity 1037 1042	state
+N51	Reference T51 Wikipedia:0d0xs	US_state
+#51	Attributes T51	0.11564590347600644
+T52	Entity 1013 1023	Republican
+N52	Reference T52 Wikipedia:07wbk	Republican_Party_$0028United_States$0029
+#52	Attributes T52	1.7061944562061089
+T53	Entity 1013 1029	Republican Party
+N53	Reference T53 Wikipedia:07wbk	Republican_Party_$0028United_States$0029
+#53	Attributes T53	1.5438235755064098
+T54	Entity 1156 1167	legislative
+N54	Reference T54 Wikipedia:0c3b0	Legislature
+#54	Attributes T54	0.8734252673973488
+T55	Entity 1089 1095	Senate
+N55	Reference T55 Wikipedia:07t58	United_States_Senate
+#55	Attributes T55	0.488583392777081
+T56	Entity 1061 1064	GOP
+N56	Reference T56 Wikipedia:07wbk	Republican_Party_$0028United_States$0029
+#56	Attributes T56	1.1523149964567887
+T57	Entity 1156 1175	legislative chamber
+N57	Reference T57 Wikipedia:0c3b0	Legislature
+#57	Attributes T57	0.27298768410831764
+T58	Entity 1099 1103	1996
+T59	Entity 1113 1124	Republicans
+N59	Reference T59 Wikipedia:07wbk	Republican_Party_$0028United_States$0029
+#59	Attributes T59	1.3308763707141305
+T60	Entity 1257 1262	state
+N60	Reference T60 Wikipedia:0d0xs	US_state
+#60	Attributes T60	-0.2590332804506883
+T61	Entity 1274 1283	incumbent
+N61	Reference T61 Wikipedia:01_sc3	Incumbent
+#61	Attributes T61	1.768963983784143
+T62	Entity 1288 1296	Democrat
+N62	Reference T62 Wikipedia:0d075m	Democratic_Party_$0028United_States$0029
+#62	Attributes T62	1.5128739913564153
+T63	Entity 1332 1341	Democrats
+N63	Reference T63 Wikipedia:0d075m	Democratic_Party_$0028United_States$0029
+#63	Attributes T63	1.5713009490251328
+T64	Entity 1384 1389	1870s
+T65	Entity 1362 1367	Texas
+N65	Reference T65 Wikipedia:07b_l	Texas
+#65	Attributes T65	1.2752424085693175
+T66	Entity 1362 1373	Texas House
+N66	Reference T66 Wikipedia:02p27n4	Texas_House_of_Representatives
+#66	Attributes T66	0.9066551619554042
+T67	Entity 1516 1525	incumbent
+N67	Reference T67 Wikipedia:01_sc3	Incumbent
+#67	Attributes T67	1.759375601889724
+T68	Entity 1671 1681	recreation
+N68	Reference T68 Wikipedia:06bm2	Recreation
+#68	Attributes T68	1.583947229314138
+T69	Entity 1610 1617	Houston
+N69	Reference T69 Wikipedia:03l2n	Houston
+#69	Attributes T69	1.1146997726692536
+T70	Entity 1568 1576	district
+N70	Reference T70 Wikipedia:014ks4	District
+#70	Attributes T70	0.4820237662249927
+T72	Entity 1592 1597	Tyler
+N72	Reference T72 Wikipedia:0108xl	Tyler$002C_Texas
+#72	Attributes T72	1.1180596724814613
+T73	Entity 1714 1722	district
+N73	Reference T73 Wikipedia:014ks4	District
+#73	Attributes T73	0.2557021003212608
+T75	Entity 1833 1837	1998
+T77	Entity 1739 1745	Jasper
+N77	Reference T77 Wikipedia:0104kc	Jasper$002C_Texas
+#77	Attributes T77	-0.6412614502332972
+T78	Entity 1877 1887	Democratic
+N78	Reference T78 Wikipedia:0d075m	Democratic_Party_$0028United_States$0029
+#78	Attributes T78	0.5963976389366074
+T79	Entity 1931 1941	Drew Nixon
+N79	Reference T79 Wikipedia:06jmhh	Drew_Nixon
+#79	Attributes T79	1.0055998048477492
+T83	Entity 1988 1991	GOP
+N83	Reference T83 Wikipedia:07wbk	Republican_Party_$0028United_States$0029
+#83	Attributes T83	1.4699549145210942
+T84	Entity 1915 1925	Republican
+N84	Reference T84 Wikipedia:07wbk	Republican_Party_$0028United_States$0029
+#84	Attributes T84	1.4855060381766347
+T85	Entity 2094 2105	policewoman
+N85	Reference T85 Wikipedia:01t2ln	Police_officer
+#85	Attributes T85	0.8475821109857782
+T86	Entity 2024 2028	1997
+T87	Entity 2118 2128	prostitute
+N87	Reference T87 Wikipedia:05zmv	Prostitution
+#87	Attributes T87	1.5544254723748034
+T88	Entity 2068 2072	jail
+N88	Reference T88 Wikipedia:0d1w9	Prison
+#88	Attributes T88	0.7693656450721886
+T90	Entity 2190 2198	lawmaker
+N90	Reference T90 Wikipedia:030pm0	Legislator
+#90	Attributes T90	1.2370073928395022
+T91	Entity 2276 2287	legislative
+N91	Reference T91 Wikipedia:0c3b0	Legislature
+#91	Attributes T91	0.6214772021909314
+T94	Entity 2304 2316	State Senate
+N94	Reference T94 Wikipedia:05jzfj	New_Jersey_Senate
+#94	Attributes T94	-0.13322837034910687
+T97	Entity 2470 2475	Texas
+N97	Reference T97 Wikipedia:07b_l	Texas
+#97	Attributes T97	1.1028466966038653
+T98	Entity 2513 2521	district
+N98	Reference T98 Wikipedia:014ks4	District
+#98	Attributes T98	-0.13788948056209865
+T99	Entity 2488 2491	835
+T101	Entity 2646 2651	Texas
+N101	Reference T101 Wikipedia:07b_l	Texas
+#101	Attributes T101	1.0291887655997516
+T102	Entity 2779 2787	district
+N102	Reference T102 Wikipedia:014ks4	District
+#102	Attributes T102	-0.16133347968252582
+T104	Entity 2866 2882	health insurance
+N104	Reference T104 Wikipedia:02gqxg	Health_insurance
+#104	Attributes T104	0.7837644885178063
+T108	Entity 2948 2958	East Texas
+N108	Reference T108 Wikipedia:02590c	East_Texas
+#108	Attributes T108	1.8892604168124139
+T111	Entity 3029 3044	school vouchers
+N111	Reference T111 Wikipedia:02nhw	School_voucher
+#111	Attributes T111	0.811713061859807
+T115	Entity 3169 3194	recreational vehicle park
+N115	Reference T115 Wikipedia:04n80j	RV_park
+#115	Attributes T115	0.9402416844688146
+T116	Entity 3169 3189	recreational vehicle
+N116	Reference T116 Wikipedia:01lgkm	Recreational_vehicle
+#116	Attributes T116	1.075244746924357
+T117	Entity 3281 3289	district
+N117	Reference T117 Wikipedia:014ks4	District
+#117	Attributes T117	-0.5753747871509816
+T118	Entity 3360 3365	judge
+N118	Reference T118 Wikipedia:0c5lg	Judge
+#118	Attributes T118	1.3400831143579774
+T119	Entity 3352 3365	federal judge
+N119	Reference T119 Wikipedia:03fntl	United_States_federal_judge
+#119	Attributes T119	-0.00340051225143273
+T122	Entity 3512 3522	Republican
+N122	Reference T122 Wikipedia:07wbk	Republican_Party_$0028United_States$0029
+#122	Attributes T122	1.5827287786244466
+T125	Person 108 125	PALESTINE , Texas
+N1	Reference T125 Wikipedia:0_xhv	Palestine
+T126	Person 108 117	PALESTINE
+N2	Reference T126 Wikipedia:0_xhv	Palestine
+T8	Person 276 299	Republican Todd Staples
+N3	Reference T8 Wikipedia:04njlg	Todd Staples
+T13	Person 602 608	Senate
+N8	Reference T13 Wikipedia:03w950g	Texas Senate
+T15	Person 709 728	Gov. George W. Bush
+N13	Reference T15 Wikipedia:09b6zr	George Bush
+T17	Person 864 873	Bob Stein
+N15	Reference T17 Wikipedia:0bh6yhw	Robert M. Stein
+T18	Person 1798 1810	pickup truck
+N17	Reference T18 Wikipedia:0cvq3	Pickup truck
+T19	Person 1915 1941	Republican Sen. Drew Nixon
+N18	Reference T19 Wikipedia:06jmhh	Drew Nixon
+T21	Person 2031 2036	Nixon
+N19	Reference T21 Wikipedia:06jmhh	Drew Nixon
+T22	Person 2233 2238	Nixon
+N21	Reference T22 Wikipedia:06jmhh	Drew Nixon
+T23	Person 2365 2370	Stein
+N22	Reference T23 Wikipedia:0bh6yhw	Robert M. Stein
+T25	Person 2382 2389	Staples
+N23	Reference T25 Wikipedia:04njlg	Todd Staples
+T28	Person 3047 3054	Staples
+N25	Reference T28 Wikipedia:04njlg	Todd Staples
+T29	Person 3091 3099	vouchers
+N28	Reference T29 Wikipedia:02nhw	School voucher
+T30	Person 3419 3426	Staples
+N29	Reference T30 Wikipedia:04njlg	Todd Staples
